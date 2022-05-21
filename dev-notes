@@ -1,0 +1,3 @@
+- Migrate backend infrastructure to AWS
+- Use SQS to decouple order placement from completion
+- Develop automatic system to manage delivery personnel daily agenda based on order completion from backend
